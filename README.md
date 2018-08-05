@@ -6,7 +6,7 @@ Include the spearman.js
 ``` js
 <script type="js/javascript" src="spearman.js"></script>
 ```
-Pass in 2 array to be checked
+Pass in 2 array to be calculated
 ``` js
   var arr1 = [17,13,12,15,16,14,16,16,18,19];
   var arr2 = [94,73,59,80,93,85,66,79,77,91];
