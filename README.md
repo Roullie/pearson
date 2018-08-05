@@ -9,7 +9,7 @@ Include the spearman.js
 Pass in 2 array to be checked
 ``` js
   var arr1 = [17,13,12,15,16,14,16,16,18,19];
-	var arr2 = [94,73,59,80,93,85,66,79,77,91];
+  var arr2 = [94,73,59,80,93,85,66,79,77,91];
   
   var res = spearman.calc( arr1 ,arr2 );  
 ```
