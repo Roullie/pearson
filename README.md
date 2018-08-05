@@ -3,6 +3,7 @@ The Spearman's rank-order correlation is the nonparametric version of the Pearso
 
 ### How to use
 Include the spearman.js
-```<script type="js/javascript" src="spearman.js"></script>
+```
+<script type="js/javascript" src="spearman.js"></script>
 ```
 
